@@ -22058,5 +22058,1613 @@
         "stoneCount": 16
       }
     ]
+  },
+  "Level_1.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 15
+      },
+      {
+        "index": 1,
+        "stoneCount": 12
+      }
+    ]
+  },
+  "Level_10.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 10
+      },
+      {
+        "index": 3,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_11.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      },
+      {
+        "index": 3,
+        "stoneCount": 9
+      }
+    ]
+  },
+  "Level_12.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 18
+      },
+      {
+        "index": 1,
+        "stoneCount": 8
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_13.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 38
+      },
+      {
+        "index": 1,
+        "stoneCount": 25
+      }
+    ]
+  },
+  "Level_14.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 33
+      },
+      {
+        "index": 1,
+        "stoneCount": 20
+      },
+      {
+        "index": 2,
+        "stoneCount": 9
+      },
+      {
+        "index": 3,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_15.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 36
+      },
+      {
+        "index": 1,
+        "stoneCount": 30
+      }
+    ]
+  },
+  "Level_16.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 40
+      },
+      {
+        "index": 1,
+        "stoneCount": 24
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      }
+    ]
+  },
+  "Level_17.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 17
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_18.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 18
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 8
+      },
+      {
+        "index": 5,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_19.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 13
+      }
+    ]
+  },
+  "Level_2.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_20.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 17
+      },
+      {
+        "index": 2,
+        "stoneCount": 28
+      },
+      {
+        "index": 3,
+        "stoneCount": 11
+      }
+    ]
+  },
+  "Level_21.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 34
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_22.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 30
+      },
+      {
+        "index": 1,
+        "stoneCount": 26
+      },
+      {
+        "index": 2,
+        "stoneCount": 22
+      }
+    ]
+  },
+  "Level_23.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 22
+      },
+      {
+        "index": 1,
+        "stoneCount": 15
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 7
+      }
+    ]
+  },
+  "Level_24.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 37
+      },
+      {
+        "index": 1,
+        "stoneCount": 24
+      },
+      {
+        "index": 2,
+        "stoneCount": 8
+      }
+    ]
+  },
+  "Level_25.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_26.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 22
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 22
+      },
+      {
+        "index": 3,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_27.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 38
+      },
+      {
+        "index": 1,
+        "stoneCount": 23
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 8
+      },
+      {
+        "index": 5,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_28.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 16
+      },
+      {
+        "index": 1,
+        "stoneCount": 13
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_29.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 12
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 7
+      }
+    ]
+  },
+  "Level_3.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 29
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_30.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 34
+      },
+      {
+        "index": 1,
+        "stoneCount": 24
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      }
+    ]
+  },
+  "Level_31.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 15
+      },
+      {
+        "index": 1,
+        "stoneCount": 11
+      },
+      {
+        "index": 2,
+        "stoneCount": 8
+      },
+      {
+        "index": 3,
+        "stoneCount": 3
+      },
+      {
+        "index": 4,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_32.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 32
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_33.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 38
+      },
+      {
+        "index": 1,
+        "stoneCount": 26
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      }
+    ]
+  },
+  "Level_34.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 30
+      },
+      {
+        "index": 1,
+        "stoneCount": 26
+      },
+      {
+        "index": 2,
+        "stoneCount": 28
+      }
+    ]
+  },
+  "Level_35.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 20
+      },
+      {
+        "index": 2,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_36.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 37
+      },
+      {
+        "index": 1,
+        "stoneCount": 28
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      }
+    ]
+  },
+  "Level_37.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 40
+      },
+      {
+        "index": 1,
+        "stoneCount": 28
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_38.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 12
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 9
+      },
+      {
+        "index": 4,
+        "stoneCount": 6
+      }
+    ]
+  },
+  "Level_39.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 21
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 24
+      }
+    ]
+  },
+  "Level_4.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      }
+    ]
+  },
+  "Level_40.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 36
+      },
+      {
+        "index": 1,
+        "stoneCount": 21
+      },
+      {
+        "index": 2,
+        "stoneCount": 8
+      },
+      {
+        "index": 3,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_41.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 22
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 5
+      }
+    ]
+  },
+  "Level_42.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 12
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      },
+      {
+        "index": 3,
+        "stoneCount": 24
+      }
+    ]
+  },
+  "Level_43.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 25
+      },
+      {
+        "index": 1,
+        "stoneCount": 20
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 8
+      }
+    ]
+  },
+  "Level_44.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 26
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      }
+    ]
+  },
+  "Level_45.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 23
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 13
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 5
+      },
+      {
+        "index": 5,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_46.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 40
+      },
+      {
+        "index": 1,
+        "stoneCount": 24
+      },
+      {
+        "index": 2,
+        "stoneCount": 28
+      },
+      {
+        "index": 3,
+        "stoneCount": 13
+      }
+    ]
+  },
+  "Level_47.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 19
+      },
+      {
+        "index": 2,
+        "stoneCount": 27
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_48.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 8
+      },
+      {
+        "index": 4,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_49.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 16
+      },
+      {
+        "index": 1,
+        "stoneCount": 10
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 8
+      },
+      {
+        "index": 5,
+        "stoneCount": 1
+      }
+    ]
+  },
+  "Level_5.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 16
+      },
+      {
+        "index": 1,
+        "stoneCount": 13
+      },
+      {
+        "index": 2,
+        "stoneCount": 3
+      },
+      {
+        "index": 3,
+        "stoneCount": 1
+      }
+    ]
+  },
+  "Level_50.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 12
+      },
+      {
+        "index": 1,
+        "stoneCount": 10
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_51.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 17
+      },
+      {
+        "index": 1,
+        "stoneCount": 20
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 18
+      },
+      {
+        "index": 4,
+        "stoneCount": 2
+      }
+    ]
+  },
+  "Level_52.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 33
+      },
+      {
+        "index": 1,
+        "stoneCount": 27
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_53.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 32
+      },
+      {
+        "index": 1,
+        "stoneCount": 12
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_54.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 48
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 4
+      },
+      {
+        "index": 3,
+        "stoneCount": 1
+      }
+    ]
+  },
+  "Level_55.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 30
+      },
+      {
+        "index": 1,
+        "stoneCount": 21
+      },
+      {
+        "index": 2,
+        "stoneCount": 24
+      }
+    ]
+  },
+  "Level_56.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 6
+      }
+    ]
+  },
+  "Level_57.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 21
+      }
+    ]
+  },
+  "Level_58.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 6
+      },
+      {
+        "index": 4,
+        "stoneCount": 6
+      },
+      {
+        "index": 5,
+        "stoneCount": 4
+      },
+      {
+        "index": 6,
+        "stoneCount": 2
+      },
+      {
+        "index": 7,
+        "stoneCount": 3
+      }
+    ]
+  },
+  "Level_59.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 12
+      },
+      {
+        "index": 1,
+        "stoneCount": 11
+      },
+      {
+        "index": 2,
+        "stoneCount": 10
+      },
+      {
+        "index": 3,
+        "stoneCount": 20
+      },
+      {
+        "index": 4,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_6.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_60.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 32
+      },
+      {
+        "index": 1,
+        "stoneCount": 26
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      }
+    ]
+  },
+  "Level_61.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_62.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 23
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 7
+      }
+    ]
+  },
+  "Level_63.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 43
+      },
+      {
+        "index": 1,
+        "stoneCount": 29
+      },
+      {
+        "index": 2,
+        "stoneCount": 30
+      },
+      {
+        "index": 3,
+        "stoneCount": 15
+      }
+    ]
+  },
+  "Level_64.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 23
+      },
+      {
+        "index": 2,
+        "stoneCount": 26
+      }
+    ]
+  },
+  "Level_65.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 16
+      },
+      {
+        "index": 1,
+        "stoneCount": 14
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      },
+      {
+        "index": 3,
+        "stoneCount": 19
+      },
+      {
+        "index": 4,
+        "stoneCount": 18
+      }
+    ]
+  },
+  "Level_66.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 21
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      }
+    ]
+  },
+  "Level_67.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 30
+      },
+      {
+        "index": 1,
+        "stoneCount": 21
+      },
+      {
+        "index": 2,
+        "stoneCount": 12
+      },
+      {
+        "index": 3,
+        "stoneCount": 6
+      }
+    ]
+  },
+  "Level_68.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 10
+      },
+      {
+        "index": 1,
+        "stoneCount": 14
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 22
+      },
+      {
+        "index": 4,
+        "stoneCount": 26
+      },
+      {
+        "index": 5,
+        "stoneCount": 24
+      }
+    ]
+  },
+  "Level_69.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 28
+      },
+      {
+        "index": 1,
+        "stoneCount": 14
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 14
+      }
+    ]
+  },
+  "Level_7.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 37
+      },
+      {
+        "index": 1,
+        "stoneCount": 25
+      },
+      {
+        "index": 2,
+        "stoneCount": 1
+      }
+    ]
+  },
+  "Level_70.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 17
+      },
+      {
+        "index": 1,
+        "stoneCount": 9
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 13
+      },
+      {
+        "index": 4,
+        "stoneCount": 13
+      },
+      {
+        "index": 5,
+        "stoneCount": 25
+      }
+    ]
+  },
+  "Level_71.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 20
+      },
+      {
+        "index": 1,
+        "stoneCount": 19
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      },
+      {
+        "index": 3,
+        "stoneCount": 13
+      }
+    ]
+  },
+  "Level_72.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 20
+      },
+      {
+        "index": 3,
+        "stoneCount": 16
+      },
+      {
+        "index": 4,
+        "stoneCount": 12
+      },
+      {
+        "index": 5,
+        "stoneCount": 8
+      }
+    ]
+  },
+  "Level_73.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 17
+      },
+      {
+        "index": 1,
+        "stoneCount": 16
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 16
+      },
+      {
+        "index": 4,
+        "stoneCount": 17
+      }
+    ]
+  },
+  "Level_74.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 42
+      },
+      {
+        "index": 1,
+        "stoneCount": 36
+      },
+      {
+        "index": 2,
+        "stoneCount": 30
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      }
+    ]
+  },
+  "Level_75.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 2
+      },
+      {
+        "index": 1,
+        "stoneCount": 4
+      },
+      {
+        "index": 2,
+        "stoneCount": 6
+      },
+      {
+        "index": 3,
+        "stoneCount": 8
+      },
+      {
+        "index": 4,
+        "stoneCount": 10
+      },
+      {
+        "index": 5,
+        "stoneCount": 12
+      },
+      {
+        "index": 6,
+        "stoneCount": 14
+      },
+      {
+        "index": 7,
+        "stoneCount": 8
+      },
+      {
+        "index": 8,
+        "stoneCount": 9
+      },
+      {
+        "index": 9,
+        "stoneCount": 8
+      }
+    ]
+  },
+  "Level_76.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 33
+      },
+      {
+        "index": 1,
+        "stoneCount": 17
+      },
+      {
+        "index": 2,
+        "stoneCount": 14
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      },
+      {
+        "index": 4,
+        "stoneCount": 4
+      }
+    ]
+  },
+  "Level_77.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 24
+      },
+      {
+        "index": 1,
+        "stoneCount": 20
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 6
+      }
+    ]
+  },
+  "Level_78.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 56
+      },
+      {
+        "index": 1,
+        "stoneCount": 42
+      },
+      {
+        "index": 2,
+        "stoneCount": 24
+      },
+      {
+        "index": 3,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_79.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 32
+      },
+      {
+        "index": 1,
+        "stoneCount": 18
+      },
+      {
+        "index": 2,
+        "stoneCount": 18
+      },
+      {
+        "index": 3,
+        "stoneCount": 12
+      },
+      {
+        "index": 4,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_8.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 26
+      },
+      {
+        "index": 1,
+        "stoneCount": 10
+      }
+    ]
+  },
+  "Level_80.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 21
+      },
+      {
+        "index": 1,
+        "stoneCount": 15
+      },
+      {
+        "index": 2,
+        "stoneCount": 22
+      },
+      {
+        "index": 3,
+        "stoneCount": 15
+      },
+      {
+        "index": 4,
+        "stoneCount": 18
+      },
+      {
+        "index": 5,
+        "stoneCount": 14
+      }
+    ]
+  },
+  "Level_9.json": {
+    "layers": [
+      {
+        "index": 0,
+        "stoneCount": 40
+      },
+      {
+        "index": 1,
+        "stoneCount": 22
+      },
+      {
+        "index": 2,
+        "stoneCount": 16
+      }
+    ]
   }
 }

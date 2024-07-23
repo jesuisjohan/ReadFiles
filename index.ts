@@ -37,7 +37,8 @@ const readJsonFilesInFolder = async (folderPath: string) => {
 
             try {
                 const data = await fs.readFile(filePath, "utf8");
-                const jsonData = JSON.parse(data) as IJsonData;
+                const validData = replaceWrongChars(data)
+                const jsonData = JSON.parse(validData) as IJsonData;
 
                 result[file] = {
                     layers: jsonData.layers.map((layer) => {
@@ -57,6 +58,19 @@ const readJsonFilesInFolder = async (folderPath: string) => {
 
     return result;
 };
+
+const replaceWrongChars = (data: string) => {
+    let oldData = data
+
+    oldData = oldData.replace(String.fromCharCode(65279), "")
+
+    while (oldData !== data) {
+        oldData = data
+        data = data.replace(String.fromCharCode(65279), "")
+    }
+
+    return data
+}
 
 const writeObjectToJsonFile = async (filePath: string, obj: object) => {
     try {
